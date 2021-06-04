@@ -7,6 +7,6 @@ Sou um Analista/Programador muito entusiasmado com tecnologia, comprometido e en
 - 🔭 Trabalhando em casa construindo projetos como freelancer
 - ⚡ Minhas stacks de trabalho são: PHP, Javascript, Typscript, CSS 3 e frameworks Angular 8+, Jquery, Wordpress, Laravel e Adianti Framework
 - 😄 Estou estudando: Node Js, C#, .NET, ReactJs e React Native
-- 📫 Para me contactar: [E-mail] (vykdigital@gmail.com)
+- 📫 Para me contactar: (vykdigital@gmail.com)
 
 
