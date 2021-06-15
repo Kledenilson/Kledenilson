@@ -4,9 +4,9 @@ Sou um Analista/Programador muito entusiasmado com tecnologia, comprometido e en
 
 #### Atualmente estou assim:
 
-- 🔭 Trabalhando em casa construindo projetos como freelancer
-- ⚡ Minhas stacks de trabalho são: PHP, Html, CCS 3, Javascript, Typscript e frameworks Angular 8+, Jquery, Wordpress, Laravel e Adianti Framework
-- 😄 Estou estudando: Node Js, C#, .NET, ReactJs e React Native
+- &#128526; Trabalhando como Dev Fullstack em uma empresa de software.
+- ⚡ Minhas stacks são: PHP, Html, CCS 3, Javascript, Typscript e frameworks Angular 8+, Jquery, Wordpress, Laravel e Adianti Framework
+- 😄 Estou estudando: Node Js, ReactJs e React Native
 - 📫 Para me contactar: vykdigital@gmail.com
 
 
