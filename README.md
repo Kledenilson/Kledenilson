@@ -5,7 +5,7 @@ Sou um Analista/Programador muito entusiasmado com tecnologia, comprometido e en
 #### Atualmente estou assim:
 
 - &#128526; Trabalhando como Dev Fullstack em uma empresa de software.
-- ⚡ Minhas stacks são: PHP, Html, CCS 3, Javascript, Typscript, Angular 8+, ReactJs, Jquery, Wordpress, Laravel e Adianti Framework
+- ⚡ Minhas stacks são: PHP, NodeJs, Html, CCS 3, Javascript, Typscript, Angular 8+, ReactJs, Jquery, Wordpress, Laravel e Adianti Framework
 - 😄 Estou estudando: React Native
 - 📫 Para me contactar: kvpfjp@gmail.com
 
