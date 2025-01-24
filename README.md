@@ -1,12 +1,12 @@
-### Olá humano! 👋
+### Hello human! 👋
 
-Sou um Analista/Programador muito entusiasmado com tecnologia, comprometido e engajado com os projetos a mim designados.  Sou apaixonado por minha esposa e meu filho.
+I am an Analyst/Programmer who is very enthusiastic about technology, committed and engaged with the projects assigned to me. I am passionate about my wife and my son.
 
-#### Atualmente estou assim:
+#### Currently I am like this:
 
-- &#128526; Trabalhando como Dev Fullstack em uma empresa de software.
-- ⚡ Minhas stacks são: PHP, NodeJs, Html, CCS 3, Javascript, Typscript, Angular 8+, ReactJs, Jquery, Wordpress, Laravel e Adianti Framework
-- 😄 Estou estudando: React Native
-- 📫 Para me contactar: kvpfjp@gmail.com
+- &#128526; Working as a Fullstack Dev in a software company.
+- ⚡ PHP | JavaScript | Typescript | Node | ReactJS | React Native | SQL | Docker | Laravel | Adianti Framework
+- 😄 I am studying: Python | Web3 | Blockchain | Smart Contracts | Solidity | Rust | AI
+- 📫 To contact me: kvpfjp@gmail.com
 
 
