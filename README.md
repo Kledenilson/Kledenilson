@@ -6,7 +6,7 @@ I am an Analyst/Programmer who is very enthusiastic about technology, committed 
 
 - &#128526; Working as a Fullstack Dev in a software company.
 - ⚡ PHP | JavaScript | Typescript | Node | ReactJS | React Native | SQL | Docker | Laravel | Adianti Framework
-- 😄 I am studying: Python | Web3 | Blockchain | Smart Contracts | Solidity | Rust | AI
+- 😄 I am studying: Python | Web3 | Tokenization | Blockchain | Smart Contracts | Solidity | Rust | AI
 - 📫 To contact me: kvpfjp@gmail.com
 
 
